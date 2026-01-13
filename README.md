@@ -8,5 +8,6 @@ This course gives the details of biological signal and image analysis, and descr
 4. Final project: 20%
 
 # Homework
+Python-based coding assignments (4 times)
 
 # Final Project
