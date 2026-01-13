@@ -11,3 +11,4 @@ This course gives the details of biological signal and image analysis, and descr
 Python-based coding assignments (4 times)
 
 # Final Project
+This project analyzes PCG heart sounds by detecting QRS complexes from ECG, segmenting systolic PCG beats, and extracting PSD-based frequency features to distinguish normal subjects from systolic murmur patients.
